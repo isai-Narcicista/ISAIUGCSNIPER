@@ -1,4 +1,4 @@
-# made by isai-Narcisista#5493
+# made by isai-Narcisista#5493 
 try:
  try:
   import logging
